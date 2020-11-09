@@ -19,4 +19,7 @@ Lessons learned: cd (Foldername) Desc: In einen Ordner wechseln
 
 		 git commit: Setzt es auf einen Repository Standart
 
+
+		:)
+
 		 
